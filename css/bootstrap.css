@@ -74,7 +74,7 @@
   h3 {
     page-break-after: avoid;
   }
-  .navbar {
+  .navbar{
     display: none;
   }
   .badge {
